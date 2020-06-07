@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="PolygonalView">
+        <attr name="background_colour" format="reference|color"/>
         <attr format="reference|color" name="background_colour"/>
         <attr format="reference|color" name="border_colour"/>
         <attr format="dimension" name="border_radius"/>
